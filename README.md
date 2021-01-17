@@ -33,6 +33,6 @@ This course will use an online flipped classroom format. Before each class sessi
    Nadia Innab: Tuesday 5-7 PM. <br>
    Simone Nabors: Thursday 7-9 PM. <br>
    Carly Grossfield: Monday 12-2 PM. <br>
-   Thea Dowrich: Wednesday 4-6 PM. <br>
+   Thea Dowrich: Wednesday 2-4 PM. <br>
    Alina Feng: Tuesday 8-10 PM. <br>
    <br><br>
