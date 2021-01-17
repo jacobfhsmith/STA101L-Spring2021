@@ -25,7 +25,14 @@ This course will use an online flipped classroom format. Before each class sessi
   
    <b>Office Hours</b> <br>
    Office hours are a great time to ask questions about the problem sets, labs, or anything else related to the class. You can also just stop by to say hi or talk about something cool you saw related to class. <br>
-   Office Hour Times: Jacob has office hours  <br>
+   Office Hour Times: Jacob has office hours on Tuesday from 11-12:15 and Friday from 2-3:45.  <br>
    Office Hours for TAs: <br>
-  
+   Evan Knox (Head TA): Monday 8-10 PM.
+   Emre Yurtbay: Friday 7-9 AM.
+   Joe Mathews: Monday 5:15-7:15 PM.
+   Nadia Innab: Tuesday 5-7 PM.
+   Simone Nabors: Thursday 7-9 PM.
+   Carly Grossfield: Monday 12-2 PM.
+   Thea Dowrich: Wednesday 4-6 PM.
+   Alina Feng: Tuesday 8-10 PM.
    <br><br>
