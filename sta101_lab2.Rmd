@@ -1,0 +1,85 @@
+---
+title: "Lab 2 - Intro to R Markdown and ggplot2"
+output: 
+  html_document:
+    highlight: pygments
+    theme: cerulean
+---
+
+**Name:** [Enter name here.]
+
+* * *
+
+**Data from Packages:**
+
+[Enter any text for this section here.]
+
+```{r}
+
+#Use This space to enter code for this section.
+
+```
+
+### Practice Loading Data from Packages:
+
+[Enter any text for this section here]
+
+```{r}
+
+```
+
+#### Practice Loading External Data: 
+
+[Enter any text for this section here.]
+
+
+```{r}
+
+#Enter your code for the section reviewing how to important data.
+
+```
+
+#### Visualizations:
+
+[Enter any text for this section here.]
+
+```{r}
+
+# Enter your code for the visualizations exercise here.
+
+```
+
+* * *
+
+### Graded Assignment:
+
+
+#### 1:
+
+```{r}
+
+```
+
+#### 2:
+
+```{r}
+
+```
+
+#### 3:
+
+```{r}
+
+```
+
+#### 4:
+
+```{r}
+
+```
+
+#### 5:
+
+```{r}
+
+```
